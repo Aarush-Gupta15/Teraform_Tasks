@@ -22,7 +22,7 @@ This project provisions an AWS EC2 instance using Terraform with an S3 backend f
 
 ---
 
-## 🚀 Setup Steps
+##  Setup Steps
 
 1. **Clone the repository**
 
