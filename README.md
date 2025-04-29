@@ -13,7 +13,7 @@ This project provisions an AWS EC2 instance using Terraform with an S3 backend f
 
 ---
 
-## 🔧 Prerequisites
+##  Prerequisites
 
 - Terraform installed (`>= 1.0.0`)
 - AWS CLI installed and configured
